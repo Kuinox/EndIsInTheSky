@@ -1,0 +1,5 @@
+name: EndIsInTheSky
+version: 1.0.2
+author: Kuinox
+main: com.kuinox.endisinthesky.Main
+api-version: 1.14
